@@ -6,6 +6,8 @@
   <title>About</title>
 </svelte:head>
 
-<div class="container cols">
-  <h1>About</h1>
-</div>
+<section class="container cols">
+  <article class="col">
+    <h1>About</h1>
+  </article>
+</section>

@@ -11,11 +11,13 @@
 <div class="layout">
   <Header {segment} />
 
-  <main>
+  <main class="padY4">
     <slot />
   </main>
 
   <footer class="cols">
-    <span>&copy; {new Date().getFullYear()} Your Blog.</span>
+    <div class="col">
+      <span>&copy; {new Date().getFullYear()} Your Blog.</span>
+    </div>
   </footer>
 </div>

@@ -20,20 +20,22 @@
   <title>Blog</title>
 </svelte:head>
 
-<div class="cols">
-  <h1>Blog</h1>
-  {#each posts as post, index}
-    {#if index}
-      <hr />
-    {/if}
-    <div class="post-item">
-      <h2>
-        <a rel="prefetch" href="blog/{post.slug}">{post.title}</a>
-      </h2>
-      <p>{post.excerpt}</p>
-      <div class="post-item-footer">
-        <span class="post-item-date">— {post.printDate}</span>
+<section class="cols">
+  <article class="col">
+    <h1>Blog</h1>
+    {#each posts as post, index}
+      {#if index}
+        <hr />
+      {/if}
+      <div class="post-item">
+        <h2>
+          <a rel="prefetch" href="blog/{post.slug}">{post.title}</a>
+        </h2>
+        <p>{post.excerpt}</p>
+        <div class="post-item-footer">
+          <span class="post-item-date">— {post.printDate}</span>
+        </div>
       </div>
-    </div>
-  {/each}
-</div>
+    {/each}
+  </article>
+</section>
