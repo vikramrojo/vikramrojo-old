@@ -1,11 +1,24 @@
 :root {
   --font-family: 'Poppins', sans-serif;
   --headings-font-family: 'Poppins', sans-serif;
-  --font-weight: 300;
+  --font-weight: 400;
   --grid-columns: repeat(3, 1fr);
-  --columns-width: 1710px;
+  --columns-width: 40rem;
   --link-color: var(--indigo);
-  font-size: 22px;
+  font-size: 1.5rem;
   letter-spacing: 0.02rem;
-  --column-gutter: 4rem;
+  --column-gutter: var(--space-4);
+  --body-color: var(--white);
+  --nav-padding: 0 var(--space-2) 0 0;
+}
+
+body {
+  background: var(--black);
+}
+
+@media screen and (max-width: 768px) {
+  :root {
+    font-size: 1rem;
+    --column-gutter: 2rem;
+  }
 }

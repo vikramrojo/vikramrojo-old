@@ -10,8 +10,8 @@
   <div class="col navLeft">
     <a class={segment === undefined ? 'selected' : ''} href=".">home</a>
     <a class={segment === 'about' ? 'selected' : ''} href="about">about</a>
-    <a rel="prefetch" class={segment === 'blog' ? 'selected' : ''} href="blog">
+    <!-- <a rel="prefetch" class={segment === 'blog' ? 'selected' : ''} href="blog">
       blog
-    </a>
+    </a> -->
   </div>
 </nav>

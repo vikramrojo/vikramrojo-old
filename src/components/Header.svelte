@@ -9,6 +9,6 @@
 
 </style>
 
-<header class="fixed wid100 bordB1 z10 bgWhite">
+<header class="fixed wid100 z10">
   <Nav {segment} />
 </header>
