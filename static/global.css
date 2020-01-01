@@ -2,7 +2,6 @@
   --font-family: 'Poppins', sans-serif;
   --headings-font-family: 'Poppins', sans-serif;
   --font-weight: 400;
-  --grid-columns: repeat(3, 1fr);
   --columns-width: 40rem;
   --link-color: var(--indigo);
   font-size: 1.5rem;

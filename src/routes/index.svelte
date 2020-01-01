@@ -12,28 +12,33 @@
 
 <article class="cols">
   <div class="col">
+    <h2>I'm Vikram, a product designer and systems thinker.</h2>
     <p>
-      I'm Vikram, a product designer, systems thinker and problem solver. I like
-      to work on things that makes customers and teams more productive. In other
-      words, I implement design systems, grow design operations, and lead
-      product discovery. I live in Colorado and work remotely as a Product
-      Designer at LaunchDarkly.
+      Working from problem definition through to usability testing, I design
+      things that make develpers more productive. I also implement design
+      systems and grow design operations. I work remotely for LaunchDarkly from
+      Colorado.
+    </p>
+    <p>
+      Before working in product, I was a high school technology teacher and site
+      developer. And way before that I was just a kid prototyping apps in Visual
+      Basic and making flyers in Photoshop. I'm not currently looking for work
+      but I'd love to hear what you're working on. Email me, atavikram at gmail
+      dot com.
     </p>
     <h3>LaunchDarkly</h3>
     <p>
       I currently work at LaunchDarkly as a design lead for their Application
       Workflows team. Our team is tasked with improving understanding and
       adoption of core features. We serve billions of flags daily to enterprise
-      and commercial customers. Our team is reworking the information
-      architecture to support better navigation, data displays and
-      configuration. Our initial work has seen higher engagement from new user
-      segments and reduced workflow effort.
+      and commercial customers. We're reworking our information architecture to
+      support better navigation, data displays and rollout configuration.
     </p>
     <p>
       Prior to this, I was responsible for building a design system across Figma
       and Storybook during the course of feature development. Adding to this
       operational work, I've developed other standards such as designs
-      specifications and collaborative user-interface reviews.
+      specifications and product reviews.
     </p>
     <p>
       My most recent project involved migrating our documentation site to a
