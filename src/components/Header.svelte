@@ -9,6 +9,6 @@
 
 </style>
 
-<header class="cols">
+<header class="fixed wid100 z10">
   <Nav {segment} />
 </header>
