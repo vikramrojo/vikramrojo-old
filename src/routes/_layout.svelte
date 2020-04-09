@@ -22,7 +22,7 @@
         <a href="https://www.linkedin.com/in/atav1k/">LinkedIn</a>
         <a href="https://medium.com/@atav1k/">Medium</a>
         <a href="https://twitter.com/atav1k">Twitter</a>
-        <a href="/">&copy; {new Date().getFullYear()} Vikram B Rojo.</a>
+        <a href="/">&copy; {new Date().getFullYear()}</a>
       </div>
     </nav>
   </footer>
