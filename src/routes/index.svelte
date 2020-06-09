@@ -15,7 +15,7 @@
     <h2>I'm Vikram, a product designer and systems thinker.</h2>
     <p>
       Working from problem definition through to usability testing, I design
-      software that make develpers more productive. As well, I implement design
+      software that make developers more productive. I also implement design
       systems and grow design operations. Currently, I work remotely for LaunchDarkly from
       Colorado.
     </p>
